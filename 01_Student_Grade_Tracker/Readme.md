@@ -1,6 +1,6 @@
 # Task 1: Student Grade Tracker
 
-A Java-based application developed during the CodeAlpha internship to input, manage, and analyze student grades efficiently. This project focuses on data collection, basic statistical computation, and clean data presentation.
+A Java-based application developed to input, manage, and analyze student grades efficiently. This project focuses on data collection, basic statistical computation, and clean data presentation.
 
 ## 📌 Features
 * **Grade Management:** Input and manage grades for a single student or a batch of students.
