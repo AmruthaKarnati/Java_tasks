@@ -1,13 +1,13 @@
-# CodeAlpha_tasks
+# Java_tasks
 
-Welcome to my **CodeAlpha** Internship repository! This repository contains the Java projects developed during my Software Engineering internship at CodeAlpha. Each task demonstrates practical implementations of object-oriented programming, data structures, and algorithm design.
+Welcome to my *Java tasks* repository! This repository contains the Java projects developed during my Software Engineering. Each task demonstrates practical implementations of object-oriented programming, data structures, and algorithm design.
 
 ---
 
 ## 📁 Repository Structure
 
 ```text
-CodeAlpha_tasks/
+Java_tasks/
 │
 ├── 01_Student_Grade_Tracker/
 │   ├── src/             # Java source code files
