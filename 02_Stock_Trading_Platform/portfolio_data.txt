@@ -1,0 +1,4 @@
+Trader_Alpha
+7935.767740726711
+AAPL,7
+AMZN,5
